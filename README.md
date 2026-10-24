@@ -16,10 +16,13 @@ https://markdown-it.github.io/
 
 ## Horizontal Rules
 
+Thin
 ___
 
+A bit thick
 ---
 
+Thickest
 ***
 
 
